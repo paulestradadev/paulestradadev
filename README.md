@@ -59,6 +59,6 @@ Soy un apasionado desarrollador web front-end recién egresado, comprometido con
 
 ## Contacto
 
-¡Me encantaría conectarme contigo y discutir oportunidades de colaboración! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/PaulEstradaLara/) y [GitHub](https://github.com/paulestradadev).
+¡Me encantaría conectarme contigo y discutir oportunidades de colaboración! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/paul-estrada-lara-384b962a9/) y [GitHub](https://github.com/paulestradadev).
 
 ¡Gracias por visitar mi portafolio!
