@@ -1,6 +1,6 @@
 # ¡Hola, soy Paul!
 
-Soy un apasionado desarrollador web front-end recién egresado, comprometido con la creación de experiencias web cautivadoras y accesibles. Mi enfoque principal es contribuir al desarrollo de interfaces de usuario intuitivas y atractivas que mejoren la experiencia del usuario.
+Soy un apasionado desarrollador web front-end, comprometido con la creación de experiencias web cautivadoras y accesibles. Mi enfoque principal es contribuir al desarrollo de interfaces de usuario intuitivas y atractivas que mejoren la experiencia del usuario.
 
 ## Sobre Mí
 
@@ -9,13 +9,17 @@ Soy un apasionado desarrollador web front-end recién egresado, comprometido con
 - 🚀 En constante aprendizaje y exploración de nuevas tendencias en el desarrollo front-end.
 - 🌐 Buscando oportunidades para aplicar mis conocimientos y crecer como desarrollador.
 
-## Habilidades
+## 💻 Tecnologías y Herramientas
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript.
-- **Frameworks y Bibliotecas:** Angular.
-- **Herramientas de Desarrollo:** VS Code, Git.
-- **Diseño Responsivo:** Creación de sitios web que se adaptan a diferentes dispositivos y tamaños de pantalla.
-- **Colaboración:** Experiencia trabajando en equipos utilizando metodologías ágiles.
+- HTML5, CSS3 (Sass/SCSS)
+- JavaScript (ES6+)
+- React.js
+- Vue.js
+- Git, GitHub
+- Webpack
+- Responsive Design
+- UI/UX Design Principles
+- Experiencia trabajando en equipos utilizando metodologías ágiles.
 
 ## Certificaciones
 
