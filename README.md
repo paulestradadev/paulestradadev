@@ -1,14 +1,14 @@
-# ¡Hola, soy Paul!
+# Hi, I'm Paul!
 
-Soy un desarrollador Java Full Stack con más de 2 años de experiencia en la creación de aplicaciones empresariales utilizando tecnologías como Spring Boot, PrimeFaces, Microservicios y Procesos Batch. Me apasiona optimizar procesos y mejorar la eficiencia operativa a través de soluciones tecnológicas innovadoras. Busco oportunidades que me permitan seguir creciendo y contribuyendo al éxito de proyectos desafiantes, además de conocer mas desarrolladores y formar una comunidad de aprendizaje y desarrallo continuo.
+I'm a Java Full Stack Developer with over 2 years of experience building enterprise applications using technologies like Spring Boot, PrimeFaces, Microservices, and Batch Processes. I'm passionate about optimizing processes and improving operational efficiency through innovative tech solutions. I'm looking for opportunities that allow me to keep growing and contribute to the success of challenging projects, as well as to meet other developers and build a community of continuous learning and development.
 
-## Sobre Mí
+## About Me
 
-- 💻 Apasionado por la tecnología y la creación de soluciones web innovadoras.
-- 🚀 En constante aprendizaje y exploración de nuevas tendencias en desarrollo.
-- 🌐 Buscando oportunidades para aplicar mis conocimientos y crecer como desarrollador.
+- 💻 Passionate about technology and creating innovative web solutions.
+- 🚀 Constantly learning and exploring new trends in development.
+- 🌐 Seeking opportunities to apply my knowledge and grow as a developer.
 
-## 💻 Tecnologías y Herramientas
+## 💻 Technologies and Tools
 
 - Java
 - Microservicios
@@ -24,27 +24,26 @@ Soy un desarrollador Java Full Stack con más de 2 años de experiencia en la cr
 - Spring Security
 - JasperReports
 - Apache Poi
-- HTML5, CSS3 (Sass/SCSS)
-- JavaScript (ES6+)
+- HTML5, CSS3 
+- JavaScript
 - SVN, GitHub
 - Responsive Design
 - UI/UX Design Principles
-- Experiencia trabajando en equipos utilizando metodologías ágiles.
 - SCRUM
 
-## Certificaciones
+## Certifications
 
-- **Certificado de Introduccion a la Programación:** 2023.
-- **Certificado en Fundamentos de Computo en la Nube:**2023.
+- Introduction to Programming Certificate: 2023
+- Cloud Computing Fundamentals Certificate: 2023
 
-## Objetivos
+## Goals
 
-- Contribuir a proyectos innovadores que desafíen mis habilidades y me permitan aprender y crecer.
-- Colaborar con equipos apasionados y motivados para crear soluciones web impactantes.
-- Seguir aprendiendo y manteniéndome actualizado con las últimas tendencias en desarrollo front-end.
+- Contribute to innovative projects that challenge my skills and allow me to learn and grow.
+- Collaborate with passionate and motivated teams to create impactful web solutions.
+- Continue learning and staying up-to-date with the latest front-end development trends.
 
-## Contacto
+## Contact
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/paul-estrada-lara-384b962a9/) y [GitHub](https://github.com/paulestradadev). ¡No dudes en contactarme para discutir oportunidades de colaboración!
+I'd love to connect with you! You can find me on [LinkedIn](https://www.linkedin.com/in/paul-estrada-lara-384b962a9/) and  [GitHub](https://github.com/paulestradadev). Feel free to reach out to discuss collaboration opportunities!
 
-¡Gracias por pasar por aquí!
+Thanks for stopping by!
